@@ -19,4 +19,4 @@ In the project a Wikipedia Scraper object is created. It refers to https://count
 Trainee Alfiya Khabibullina
 Coach Vanessa Rivera Quiñones
 
-<iframe src="https://giphy.com/embed/SzBlFsQg26JL0s12P9" width="480" height="377" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wikipedia-world-spin-wikisource-SzBlFsQg26JL0s12P9">via GIPHY</a></p>
+![]([https://github.com//globe.gif)](https://github.com/justalphie/wikipedia-scraper/tree/main/images)https://github.com/justalphie/wikipedia-scraper/tree/main/images/globe.gif)
